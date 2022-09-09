@@ -44,7 +44,7 @@
         <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40" />
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-ar21.svg" alt="neovim" width="40" height="80" />
+        <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-ar21.svg" alt="neovim" width="80" height="40" />
     </a>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30" />
